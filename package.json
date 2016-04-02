@@ -1,0 +1,14 @@
+{
+  "name": "goalit",
+  "version": "1.0.0",
+  "description": "the ultimate productivity toolset",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Carlos Bruguera",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
